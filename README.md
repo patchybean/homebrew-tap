@@ -13,7 +13,7 @@ brew install neatcli
 
 | Formula | Description |
 |---------|-------------|
-| [neatcli](https://github.com/patchybean/neat) | A smart CLI tool to organize and clean up messy directories |
+| [neatcli](https://github.com/patchybean/neatcli) | A smart CLI tool to organize and clean up messy directories |
 
 ## Usage
 
@@ -33,4 +33,4 @@ neatcli watch ~/Downloads --auto
 
 ## More Info
 
-See the [neatcli repository](https://github.com/patchybean/neat) for full documentation.
+See the [neatcli repository](https://github.com/patchybean/neatcli) for full documentation.
